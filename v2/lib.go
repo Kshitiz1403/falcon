@@ -3,6 +3,6 @@ package v2
 import "fmt"
 
 func SayHello() string {
-	fmt.Println("Hello, World!")
-	return "Hello, World!"
+	fmt.Println("V2: Hello, World!")
+	return "V2: Hello, World!"
 }
