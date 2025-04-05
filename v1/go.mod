@@ -1,3 +1,3 @@
-module github.com/Kshitiz1403/falcon/v1
+module github.com/Kshitiz1403/falcon
 
 go 1.23

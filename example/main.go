@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	v1 "github.com/Kshitiz1403/falcon/v1"
+	v1 "github.com/Kshitiz1403/falcon"
 	v2 "github.com/Kshitiz1403/falcon/v2"
 )
 
